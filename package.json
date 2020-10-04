@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "https://github.com/islandvalley/mysite",
   "author": "islandvalley",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -20,6 +20,9 @@
     "prettier": "^2.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "styled-jsx-plugin-stylelint": "^0.1.0",
+    "stylelint": "^13.7.2",
+    "stylelint-order": "^4.1.0",
     "typescript": "^4.0.3"
   }
 }
